@@ -1,4 +1,6 @@
 Jacob Kile
 Volleyball
 Data Analytics
-Cars
+Cars 
+Movies
+Animals
